@@ -8,7 +8,7 @@ public class DBC {
 
 	public static Connection DBConnect() {
 		
-		// DB에 접속에 필요한 정보를 저장하기 위한 Connection타입 객체 con선언12
+		// DB에 접속에 필요한 정보를 저장하기 위한 Connection타입 객체 con선언
 		Connection con = null;
 		
 		// String url = "jdbc:oracle:thin:@121.65.47.77:1522:XE";
